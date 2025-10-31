@@ -1,0 +1,5 @@
+{
+  "name": "AnurexWebUI - DevEnvironment",
+  "description": "A functional, visually appealing clone of the Anurex product landing page, built with React and Tailwind CSS, replicating the provided design and color palette.",
+  "requestFramePermissions": []
+}
